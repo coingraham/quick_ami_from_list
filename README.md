@@ -8,7 +8,7 @@ Clone the repo, edit the configuration file and run the script.
 
 ### Prerequisites
 
-In order for the script to function you'll need python 2.7 and the following modules
+In order for the script to function you'll need python 2.7 and the following python modules
 
 ```
 boto3
