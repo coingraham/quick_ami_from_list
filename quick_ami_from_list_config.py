@@ -19,4 +19,4 @@ description = "Backup for migration image"
 tag = "host_name"
 
 # Comma delimited array of quoted instance names to take AMI images.
-instances = ["cwdhaxa0001","cwdhaxd0001","cwdhaxw0001","cwdhaxw0002"]
+instances = ["cwdhaxw0003"]
