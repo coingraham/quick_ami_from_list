@@ -23,7 +23,6 @@ def quick_ami_from_list():
     except:
         raise
 
-
     for instance in instance_list:
         instance_id = None
         ami_name = instance + "_" + time_string
@@ -51,7 +50,7 @@ def quick_ami_from_list():
         except:
             raise
 
-        return "AMI creation complete."
+    return "AMI creation complete."
 
 if __name__ == "__main__":
 
